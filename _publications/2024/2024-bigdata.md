@@ -9,8 +9,8 @@ abstract: >-
   We compare human-driven and automated prompting strategies in the Segment Anything Model (SAM). Through large-scale benchmarking, we identify prompting patterns that maximize segmentation accuracy across diverse visual domains.
 cover:          /assets/images/covers/2024_bigdata.png
 authors:
-  - Jorge Quesada*
-  - Zoe Fowler*
+  - Jorge Quesada
+  - Zoe Fowler
   - Mohammad Alotaibi
   - Mohit Prabhushankar
   - Ghassan AlRegib
