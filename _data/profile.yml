@@ -1,61 +1,103 @@
-primary_name: "Your Name"
+primary_name: "Jorge Quesada"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jorge Quesada"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/georgia_tech.png  # Logo is optional
+  name: PhD Student at the Georgia Institute of Technology
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+email: "jpacora3@gatech.edu"
+cv_link: https://drive.google.com/file/d/1fALVto5Fb7tFTA3oRAJWIoZwppxQdlrC/view?usp=sharing
+res_link: https://drive.google.com/file/d/1FvU1xdj95c94G28DN1x2uaGllGgia_sA/view?usp=sharing
+gscholar: IWbpiO8AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: Jorge-Quesada
+#twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: jorge-quesada-pacora-02234a44
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+  My name is Jorge Quesada. I am a PhD candidate in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I work in the <a href="https://alregib.ece.gatech.edu/" target="_blank">OLIVES Lab</a> with Professor Ghassan AlRegib on <b>machine learning for scientific imaging</b>, where my current is focus on <b>seismic interpretation</b>. 
   </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
-  </p>
+   <p>
+    My current work at the OLIVES lab centers on building <b>self-supervised</b> and <b>domain-robust</b> representation learning methods and stress-testing them under real distribution shift. In past projects, I have also explored <b>human-in-the-loop</b> systems, such as uncertainty-aware annotations that capture labeler expertise and prompting strategies for the Segment Anything Model in order to make workflows more reliable and interpretable in practice. </p> 
+    <p> Beyond these, I have also worked in representation learning for <b>neuroimaging</b>, as well as inverse problems and mathematical optimization. I’m broadly motivated by questions
+  at the intersection of <b>natural and artificial intelligence</b>—how brains and machines perceive, learn, and generalize—and I’m always excited to collaborate across domains.
+    </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/jorge.jpg
+#portrait_caption: >-
+
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Georgia Institute of Technology
+  logo: /assets/images/badges/georgia_tech.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Department of Electrical and Computer Engineering <br/>
+    Ph.D. Student in Machine Learning
+  date: Aug 2021 - present
+- name: Pontifical Catholic University of Peru
+  logo: /assets/images/badges/pucp.png
+  position: M.S.. in Signal Processing
+  date: graduation 2018
+- name: Pontifical Catholic University of Peru
+  logo: /assets/images/badges/pucp.png
+  position: B.S. in Electrical Engineering
+  date: graduation 2015
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Georgia Institute of Technology
+  logo: /assets/images/badges/georgia_tech.png
+  position: Graduate Research Assistant
+  date: Aug. 2021 - present
+- name: Sentinel
+  logo: /assets/images/badges/sentinel.jpg
+  position: Computer Vision Data Scientist
+  date: Jul 2020 - Dec. 2020
+- name: Pontifical Catholic University of Peru
+  logo: /assets/images/badges/pucp.png
+  position: Graduate Researcher and Lecturer
+  date: Mar 2016 - Jun. 2020
+- name: Los Alamos National Laboratory
+  logo: /assets/images/badges/lanl.png
+  position: Research Intern
+  date: Jan. 2017 - Apr. 2017
+- name: Jicamarca Radio Observatory
+  logo: /assets/images/badges/id.png
+  position: Research Assistant
+  date: Jan. 2015 - Apr. 2015
+
+teaching:
+- name: Generative and Geometric Deep Learning ECE 8803
+  logo: /assets/images/badges/georgia_tech.png
+  position: Course Developer and Graduate Teaching Assistant
+  date: Fall 2023
+- name: Fundamentals of Machine Learning ECE 4252/8803
+  logo: /assets/images/badges/georgia_tech.png
+  position: Graduate Teaching Assistant
+  date: Spring 2024
+- name: Senior Analog Laboratory ECE 4043
+  logo: /assets/images/badges/georgia_tech.png
+  position: Graduate Teaching Assistant
+  date: Spring/Summer 2023
+- name: Digital Signal Processing
+  logo: /assets/images/badges/pucp.png
+  position: Main Instructor
+  date: Spring/Fall 2019
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
+- name: Cadence Diversity in Technology Scholarship Recipient
+  date: 2023
+- name: Computational Neural Engineering Training Program (CNTP) Scholar
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: ICASSP 2018 Student Travel Grant
+  date: 2018
+- name: Marco Polo Scholarship
+  date: 2016
+- name: ICASSP 2016 Student Travel Grant
+  date: 2016
