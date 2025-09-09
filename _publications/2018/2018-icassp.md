@@ -1,7 +1,7 @@
 ---
 title:          "Separable Dictionary Learning for Convolutional Sparse Coding via Split Updates"
 date:           2018-04-15 00:01:00 +0000
-selected:       true
+selected:       false
 pub:            "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 pub_date:       "2018"
 
