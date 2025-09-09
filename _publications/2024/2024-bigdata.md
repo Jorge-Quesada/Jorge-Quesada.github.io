@@ -1,4 +1,3 @@
-
 ---
 title:          "Benchmarking Human and Automated Prompting in the Segment Anything Model"
 date:           2024-12-10 00:01:00 +0000
